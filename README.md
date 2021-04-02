@@ -1,5 +1,5 @@
 # isogenies
-IImplementation of isogeny-based objects (endomorphism ring, endomorphisms, isogenies, ideal action, isogeny volcanoe ...)
+Implementation of isogeny-based objects (endomorphism ring, endomorphisms, isogenies, ideal action, isogeny volcanoes ...)
 This was done as a part of master thesis.
 
 Recommended install:
@@ -10,5 +10,5 @@ In the directory implementation:
 `pip3 install --editable .`
 
 Note:
-kohel-database needed
+kohel-database needed.
 Install: `sage -i database_kohel`
