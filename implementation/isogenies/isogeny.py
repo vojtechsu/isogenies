@@ -1,6 +1,6 @@
-from libr.utils import *
-from libr.standard_form import standard_form, normalize_map
-from libr.velu import *
+from isogenies.utils import *
+from isogenies.standard_form import standard_form, normalize_map
+from isogenies.velu import *
 import copy
 from sage.rings.algebraic_closure_finite_field import AlgebraicClosureFiniteField
 from sage.arith.misc import factor
