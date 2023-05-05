@@ -1,7 +1,7 @@
 # Implementation of algorithms from Isogeny Volcanoes and the SEA Algorithm by Mireille Fouquet and François Morain
 # https://link.springer.com/chapter/10.1007/3-540-45455-1_23
 
-from isogenies.utils import *
+from utils import *
 from sage.calculus.functional import derivative
 
 

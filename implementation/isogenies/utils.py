@@ -1,6 +1,6 @@
 from sage.all import PolynomialRing, GF, ZZ
 from sage.schemes.elliptic_curves.all import EllipticCurve
-from isogenies.standard_form import standard_form
+from standard_form import standard_form
 from sage.databases.db_modular_polynomials import ClassicalModularPolynomialDatabase
 
 
